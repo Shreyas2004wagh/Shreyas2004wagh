@@ -12,13 +12,13 @@
 </p>
 
 <p align="center">
-- 🔭 I’m currently working on **[Nova_Testimonial](https://github.com/Shreyas2004wagh/Nova_Testimonial)**
+- 🔭 I’m currently working on AutoMailX_SM
 
 - 🌱 I’m currently learning **Rust**
 
 - 💬 Ask me about **MERN stack and related technologies**
 
-- 📫 How to reach me: **[shreyaswagh2004@gmail.com](mailto:shreyaswagh2004@gmail.com)**
+- 📫 How to reach me: shreyaswagh2004@gmail.com
 </p>
 
 <h3 align="center">Connect with me:</h3>
